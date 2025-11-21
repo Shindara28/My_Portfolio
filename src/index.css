@@ -8,5 +8,6 @@ html, body {
 
 html, body, #root {
     height: 100%;
+    color: slategray;
     background-color: white; /* fallback*/
 }

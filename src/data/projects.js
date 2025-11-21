@@ -1,54 +1,46 @@
 const projects = [
-  {
-    id: 1,
-    title: "QR Code Attendance System",
-    image: "/images/projects/qr-attendance.png",
+ {
+   id: 1,
+    title: "A Cybersecurity Portfolio",
+    image: "./src/assets/portfolio.png",
     description:
-      "A real-time attendance tracking system using QR codes and Firebase. Built with React, Vite, and Firestore for real-time updates.",
-    tech: ["React", "Firebase", "Tailwind CSS", "Vite"],
-    link: "https://cyberflex-attendance.vercel.app",
-    github: "https://github.com/Cyb3rflex/qr-attendance-system",
-  },
+      "A portfolio website that showcases my projects in a clean, simple layout and provides an easy way for people to reach me through my contact information.",
+    tech: ["React", "Tailwind CSS", "Vite", "Framer Motion"],
+    link: "https://my-portfolio-kappa-roan-56.vercel.app/",
+    github: "https://github.com/Shindara28/My_Portfolio",
+ },
+
   {
     id: 2,
-    title: "PagePilot AI",
-    image: "/images/projects/pagepilot.png",
+    title: "A Password Strength Checker System",
+    image: "./src/assets/password.png",
     description:
-      "An AI-powered landing page generator with one-click deployment and a drag-and-drop editor. Frontend-only project built with Next.js.",
-    tech: ["Next.js", "Tailwind CSS", "OpenAI API"],
-    link: "https://pagepilot.vercel.app",
-    github: "https://github.com/Cyb3rflex/pagepilot",
+      "Real-time password strength validator. Checks entropy, pattern weakness, and common breaches to give instant feedback on password security.",
+    tech: ["React", "Tailwind CSS", "Vite"],
+    link: "https://password-strength-checker-six-mu.vercel.app/",
+    github: "https://github.com/Shindara28/Password_strength_checker",
   },
   {
     id: 3,
-    title: "YouTube Summarizer & Translator",
-    image: "/images/projects/youtube-summarizer.png",
+    title: "IP Information Finder",
+    image: "./src/assets/infofinder.png",
     description:
-      "A web app that summarizes and translates YouTube videos using AI. Ideal for quick learning and accessibility.",
-    tech: ["React", "Rapid API", "Tailwind CSS"],
-    link: "https://yt-summary-ai.vercel.app",
-    github: "https://github.com/Cyb3rflex/youtube-summarizer",
+      "An IP information finder that fetches geolocation, ISP data, and network details in real time to give quick, clear insights into any IP address.",
+    tech: ["HTML", "CSS", "PYTHON"],
+    link: "https://ip-info-finder-eight.vercel.app/",
+    github: "https://github.com/Shindara28/ip-info-finder",
   },
   {
     id: 4,
-    title: "Pentest Lab Demo",
-    image: "/images/projects/pentest-lab.png",
+    title: "Cybersecurity Dashboard",
+    image: "./src/assets/cyberdash.png",
     description:
-      "A mini pentesting environment showcasing vulnerable and secure Node.js apps for ethical hacking exercises.",
-    tech: ["Node.js", "Express", "Docker"],
-    link: "https://github.com/Cyb3rflex/pentest-lab",
-    github: "https://github.com/Cyb3rflex/pentest-lab",
+      "A Cybersecurity dashboard that monitors system activity, visualizes threats, and provides quick insights to help you stay on top of security events in real time.",
+    tech: ["React", "Vite", "Tailwind CSS"],
+    link: "https://ip-info-finder-hkk5.vercel.app/",
+    github: "https://github.com/Shindara28/Cyber_Security_Dashboard",
   },
-  {
-    id: 5,
-    title: "The Ultimate Money-Saving Blueprint",
-    image: "/images/projects/money-blueprint.png",
-    description:
-      "A digital financial toolkit including a budgeting Excel template and a visually designed PDF guide for smart financial planning.",
-    tech: ["Canva", "Excel", "Marketing Strategy"],
-    link: "https://cyberflex-blueprint.vercel.app",
-    github: "https://github.com/Cyb3rflex/money-blueprint",
-  },
+
 ];
 
 export default projects;

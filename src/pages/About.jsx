@@ -7,7 +7,7 @@ const About = () => {
     <section className="min-h-screen bg-gray-50 dark:bg-gray-950 text-gray-800 dark:text-gray-100 py-16 px-6 transition-colors duration-300">
       <SectionHeader
         title="About Me"
-        subtitle="Who I am, what I do, and why I’m passionate about cybersecurity."
+        subtitle="I am Oluwashindara, a Cybersecurity Developer. I love building secure applications and sharing my knowledge with others in the tech community."
       />
 
       <div className="max-w-4xl mx-auto text-center">
@@ -17,10 +17,8 @@ const About = () => {
           whileInView={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.6 }}
         >
-          I’m <span className="font-semibold text-blue-600 dark:text-blue-400">Cyberflex</span>,  
-          a full-stack developer and cybersecurity enthusiast.  
-          I love building secure applications and sharing my knowledge with others in the tech community.
-          My goal is to help others understand security from a developer’s perspective.
+          I’m <span className="font-semibold text-blue-600 dark:text-blue-400">Oluwashindara</span>, a cybersecurity developer and enthusiast.
+          a cybersecurity dev that writes code that doesn't get hacked, and I help people understand why that matters. Always learning new attack vectors and defense strategies.
         </motion.p>
 
         <motion.div

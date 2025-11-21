@@ -1,22 +1,20 @@
-export const SITE_NAME = "Cyberflex Portfolio";
-export const SITE_URL = "https://cyberflex-portfolio.vercel.app";
-export const EMAIL = "cyberflex.dev@gmail.com";
+export const SITE_NAME = "Shindara Portfolio";
+export const SITE_URL = "https://my-portfolio-kappa-roan-56.vercel.app/";
+export const EMAIL = "shindaraxtech@gmail.com";
 
 export const SOCIALS = {
-  github: "https://github.com/Cyb3rflex",
-  linkedin: "https://linkedin.com/in/cyberflex",
-  twitter: "https://x.com/Cyb3rflex",
+  github: "https://github.com/Shindara28",
+  linkedin: "https://www.linkedin.com/in/oluwashindara-majiyagbe-65178933a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+  twitter: "https://x.com/OluwashindaraM6?s=09",
 };
 
 export const META = {
-  title: "Cyberflex | Cybersecurity & Full-Stack Developer Portfolio",
+  title: "Shindara | Cybersecurity Portfolio",
   description:
-    "Explore my cybersecurity and full-stack development projects. I build secure, modern web applications using React, Node.js, and more.",
+    "I'm Oluwashindara and I'm a Cybersecurity Developer. Welcome to my portfolio where I showcase my projects and skills in cybersecurity development.",
   keywords: [
-    "Cyberflex",
+    "Shindara",
     "Cybersecurity Developer",
-    "Full Stack Engineer",
-    "React Developer",
     "Portfolio",
   ],
 };
